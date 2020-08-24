@@ -18,7 +18,6 @@ namespace DomainService.ClientMVC.Controllers
 
     [HttpGet("{name}")]
     public IActionResult Get(string name){
-
       ConstellationModel constellation =  repo.GetConstellationByName(name);
 
       if (constellation == null){
