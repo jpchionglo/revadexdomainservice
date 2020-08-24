@@ -25,7 +25,8 @@ jobs:
           dotnet build
           dotnet test -p:CollectCoverage=true -p:CoverletOutputFormat=opencover --logger trx
           dotnet sonarscanner end -d:sonar.login='b5ab7c8a70f06b21bb7800a49609c5462fec9763'
-      
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 name: cibuild
 
 on: push
