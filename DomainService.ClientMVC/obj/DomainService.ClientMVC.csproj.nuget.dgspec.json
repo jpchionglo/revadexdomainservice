@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj": {}
+    "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj": {}
   },
   "projects": {
-    "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj": {
+    "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
+        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
         "projectName": "DomainService.ClientMVC",
-        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
+        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
         "packagesPath": "/home/jchionglo/.nuget/packages/",
-        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/obj/",
+        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jchionglo/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
-                "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj"
+              "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
+                "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj": {
+    "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj",
+        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj",
         "projectName": "DomainService.Domain",
-        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj",
+        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj",
         "packagesPath": "/home/jchionglo/.nuget/packages/",
-        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/obj/",
+        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jchionglo/.nuget/NuGet/NuGet.Config"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
+    "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
+        "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
         "projectName": "DomainService.Storing",
-        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
+        "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
         "packagesPath": "/home/jchionglo/.nuget/packages/",
-        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/obj/",
+        "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jchionglo/.nuget/NuGet/NuGet.Config"
@@ -155,8 +155,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj": {
-                "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj"
+              "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj": {
+                "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/DomainService.Domain.csproj"
               }
             }
           }

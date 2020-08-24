@@ -1,0 +1,21 @@
+
+lDomainService.Storing.Migrations._4thMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820142729_4th Migration.cs  (""0*û
+0ðí
+”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820142729_4th Migration.cs	 ( _
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Distance*
+
+Planet*
+""2"DropColumn(string, string, string)*
+1*²
+1"¬
+”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820142729_4th Migration.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB20
+.DomainService.Storing.Migrations._4thMigration

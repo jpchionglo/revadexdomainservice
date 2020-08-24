@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7DttTXXFmW+4Na5Pgcc6PcaAoyuM4TWSHlkonSL1zq8opZ6Z8OKeYKG4Ni5hiA1GIih6CXy/DR5Lc/7TJap8A==",
+  "dgSpecHash": "n402fld/Efq7yQyQFFVxNtllb5kL8XZhJkOrcR3R96YluF/POL++EACiFlygTLEaWD+PUJY4bBU12dDdzJ6sgw==",
   "success": true,
-  "projectFilePath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Testing/DomainService.Testing.csproj",
+  "projectFilePath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Testing/DomainService.Testing.csproj",
   "expectedPackageFiles": [
     "/home/jchionglo/.nuget/packages/coverlet.collector/1.2.0/coverlet.collector.1.2.0.nupkg.sha512",
     "/home/jchionglo/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

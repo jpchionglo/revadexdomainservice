@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G0XOtU4D7zL34/g5X4gtIxUrYXJX2aDVYz0ssYEMTj9Aggopp/bnVn6O3cul/p899PIQ69YJn9GHfnKQyPol/w==",
+  "dgSpecHash": "KSNzvuoYGX6rx6TsHxMVAJXYuWSC9BcHnksSsEI6Fvj75C79fJmmvKjnNcDyqgxe/SHx1Hc8zTiHuYsWF0X4Xw==",
   "success": true,
-  "projectFilePath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
+  "projectFilePath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj",
   "expectedPackageFiles": [
     "/home/jchionglo/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "/home/jchionglo/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

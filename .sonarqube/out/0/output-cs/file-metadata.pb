@@ -1,0 +1,13 @@
+|
+s/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Factories/IFactory.csutf-8Ä
+w/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Factories/SpaceFactory.csutf-8u
+l/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/JSONConvert.csutf-8w
+n/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/AModel.csutf-8É
+z/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/ConstellationModel.csutf-8|
+s/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/PlanetModel.csutf-8à
+/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/PlanetSolarSystJunction.csutf-8Å
+x/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/SolarSystemModel.csutf-8Ç
+y/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/StarConstJunction.csutf-8z
+q/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/Models/StarModel.csutf-8≤
+¶/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.csutf-8ß
+õ/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/obj/Debug/netstandard2.0/DomainService.Domain.AssemblyInfo.csutf-8

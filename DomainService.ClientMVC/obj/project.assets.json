@@ -6621,11 +6621,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
+      "projectUniqueName": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
       "projectName": "DomainService.ClientMVC",
-      "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
+      "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/DomainService.ClientMVC.csproj",
       "packagesPath": "/home/jchionglo/.nuget/packages/",
-      "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.ClientMVC/obj/",
+      "outputPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jchionglo/.nuget/NuGet/NuGet.Config"
@@ -6639,8 +6639,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
-              "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj"
+            "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj": {
+              "projectPath": "/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainService.Storing.csproj"
             }
           }
         }

@@ -1,0 +1,61 @@
+
+çDomainService.ClientMVC.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs% %("0*Ü
+0¯
+ı
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs' '(#
+
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*«
+1º
+π
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs) )(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+2*…
+2≠
+™
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs, ,(%6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder√
+¿
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs. .(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderµ
+≤
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs0 0("6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderê
+ç
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs2 5(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*í
+3"å
+u
+k/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Startup.cs6 6(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB#!
+DomainService.ClientMVC.Startup

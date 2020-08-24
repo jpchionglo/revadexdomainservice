@@ -1,0 +1,82 @@
+
+8DomainService.ClientMVC.Controllers.StarController.Get()à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs# #("4*ü	
+0‘
+—
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs% %("@
+%0:DomainService.Storing.Repositories.DomainServiceRepository"__id*|*z4
+2DomainService.ClientMVC.Controllers.StarController"B
+repo:DomainService.Storing.Repositories.DomainServiceRepository∆
+√
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs% %(0(
+%1"System.Collections.Generic.List<T>"HDomainService.Storing.Repositories.DomainServiceRepository.GetAllStars()*B
+@
+%0:DomainService.Storing.Repositories.DomainServiceRepositoryÌ
+Í
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs% %(0+
+stars"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>Å
+˛
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs'
+ '(
+
+%2bool""object.operator ==(object, object)*
+"
+object*-
++
+stars"System.Collections.Generic.List<T>*
+""*
+1
+2*Ô
+1™ß
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs) )(-
+%3'Microsoft.AspNetCore.Mvc.NotFoundResult"2Microsoft.AspNetCore.Mvc.ControllerBase.NotFound()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase2
+NotFound()"º
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs) )(/
+-
+%3'Microsoft.AspNetCore.Mvc.NotFoundResult*ç	
+2°
+û
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs- -(&
+%4 DomainService.Domain.JSONConvert"__id*c*a4
+2DomainService.ClientMVC.Controllers.StarController")
+jconv DomainService.Domain.JSONConvertÁ
+‰
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs- -($
+%5string"pDomainService.Domain.JSONConvert.Convert(System.Collections.Generic.List<DomainService.Domain.Models.StarModel>)*(
+&
+%4 DomainService.Domain.JSONConvert*-
++
+stars"System.Collections.Generic.List<T>∫∑
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs- -(%-
+%6'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+
+%5string2
+Ok(object)"º
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs- -(&/
+-
+%6'Microsoft.AspNetCore.Mvc.OkObjectResult*¶
+3"†
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs/ /(
+implicit return*≠
+4¢
+ü
+à
+~/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.ClientMVC/Controllers/StarController.cs# #(
+%7"__entrypoint*
+0B64
+2DomainService.ClientMVC.Controllers.StarController

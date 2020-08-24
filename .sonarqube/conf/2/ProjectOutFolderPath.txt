@@ -1,0 +1,1 @@
+/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/.sonarqube/out/2

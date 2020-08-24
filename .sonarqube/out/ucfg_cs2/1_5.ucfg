@@ -1,0 +1,28 @@
+
+lDomainService.Storing.Migrations._2ndMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd Migration.cs  (""0*î
+0ïì
+”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd Migration.cs	 (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	Magnitude*
+Star*
+""2"DropColumn(string, string, string)ñî
+”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd Migration.cs ( _
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"\Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropColumn(string, string, string)*O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+	Magnitude*
+
+Planet*
+""2"DropColumn(string, string, string)*
+1*²
+1"¬
+”
+‰/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd Migration.cs (	
+implicit return:M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB20
+.DomainService.Storing.Migrations._2ndMigration

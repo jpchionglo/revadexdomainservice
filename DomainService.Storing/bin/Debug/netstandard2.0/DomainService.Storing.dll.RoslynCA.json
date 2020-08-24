@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
                 "region": {
                   "startLine": 1,
                   "startColumn": 1,
@@ -39,7 +39,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Repositories/DomainServiceRepository.cs",
                 "region": {
                   "startLine": 12,
                   "startColumn": 36,
@@ -54,13 +54,50 @@
           }
         },
         {
-          "ruleId": "S101",
+          "ruleId": "S4136",
           "level": "warning",
-          "message": "Rename class '_3rdMigration' to match pascal case naming rules, trim underscores from the name.",
+          "message": "All 'DomainServiceDBContext' method overloads should be adjacent.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200819205149_3rd%20Migration.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 14,
+                  "endLine": 23,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 14,
+                  "endLine": 42,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Non-adjacent overload"
+            }
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class '_2ndMigration' to match pascal case naming rules, trim underscores from the name.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd%20Migration.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 26,
@@ -77,11 +114,11 @@
         {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class '_2ndMigration' to match pascal case naming rules, trim underscores from the name.",
+          "message": "Rename class '_1stMigration' to match pascal case naming rules, trim underscores from the name.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200819203703_2nd%20Migration.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819184650_1st%20Migration.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 26,
@@ -102,7 +139,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200820142729_4th%20Migration.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820142729_4th%20Migration.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 26,
@@ -117,50 +154,13 @@
           }
         },
         {
-          "ruleId": "S4136",
-          "level": "warning",
-          "message": "All 'DomainServiceDBContext' method overloads should be adjacent.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 14,
-                  "endLine": 23,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
-                "region": {
-                  "startLine": 42,
-                  "startColumn": 14,
-                  "endLine": 42,
-                  "endColumn": 36
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Non-adjacent overload"
-            }
-          }
-        },
-        {
           "ruleId": "S101",
           "level": "warning",
-          "message": "Rename class '_1stMigration' to match pascal case naming rules, trim underscores from the name.",
+          "message": "Rename class '_3rdMigration' to match pascal case naming rules, trim underscores from the name.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200819184650_1st%20Migration.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200819205149_3rd%20Migration.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 26,
@@ -181,33 +181,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200820171406_5th%20Migration.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820171406_5th%20Migration.cs",
                 "region": {
                   "startLine": 5,
                   "startColumn": 26,
                   "endLine": 5,
                   "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1186",
-          "level": "warning",
-          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/Migrations/20200820171406_5th%20Migration.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 33,
-                  "endLine": 12,
-                  "endColumn": 37
                 }
               }
             }
@@ -223,7 +202,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
                 "region": {
                   "startLine": 36,
                   "startColumn": 39,
@@ -244,12 +223,33 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/project-challenge-p2-revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs",
                 "region": {
                   "startLine": 44,
                   "startColumn": 60,
                   "endLine": 44,
                   "endColumn": 67
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/Migrations/20200820171406_5th%20Migration.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 33,
+                  "endLine": 12,
+                  "endColumn": 37
                 }
               }
             }

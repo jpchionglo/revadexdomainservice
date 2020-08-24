@@ -1,0 +1,30 @@
+
+qDomainService.Storing.DomainServiceDBContext.OnConfiguring(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder)Ç
+x/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs (+"0*«
+0π∂
+Ç
+x/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs! !((
+
+%0bool"FMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder.IsConfigured.get*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder2IsConfigured.get*
+1
+2*√
+1∏
+µ
+É
+x/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs$
+ $(ç;
+%15Microsoft.EntityFrameworkCore.DbContextOptionsBuilder"ÎMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder, string, System.Action<Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder>)*E"C
+AMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions*I
+G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilder*hf
+dServer=revadex.database.windows.net;database=DomainServiceDB;User ID=sqladmin;Password=Password12345*
+""*
+2*†
+2"ö
+Ç
+x/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Storing/DomainServiceDBContext.cs( ((
+implicit return:G
+optionsBuilder5Microsoft.EntityFrameworkCore.DbContextOptionsBuilderB0.
+,DomainService.Storing.DomainServiceDBContext

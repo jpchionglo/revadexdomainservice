@@ -1,0 +1,21 @@
+
+ODomainService.Domain.JSONConvert.Convert(DomainService.Domain.Models.StarModel)v
+l/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/JSONConvert.cs ("0*°
+0ê
+ç
+v
+l/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (.
+%0string"3Newtonsoft.Json.JsonConvert.SerializeObject(object)*"
+Newtonsoft.Json.JsonConvert*/
+-
+star%DomainService.Domain.Models.StarModel"à
+v
+l/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (/
+
+%0string*ì
+1"ç
+v
+l/home/jchionglo/2007_13_dotnet/project-challenges/revadex/Domain.Service/DomainService.Domain/JSONConvert.cs (
+implicit return:-
+star%DomainService.Domain.Models.StarModelB$"
+ DomainService.Domain.JSONConvert
